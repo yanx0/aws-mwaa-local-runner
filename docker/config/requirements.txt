@@ -55,7 +55,7 @@ inflection==0.5.1
 iso8601==0.1.14
 isodate==0.6.0
 itsdangerous==1.1.0
-Jinja2==2.11.3
+Jinja2==3.1.4
 jmespath==0.10.0
 jsonschema==3.2.0
 kombu==4.6.11
