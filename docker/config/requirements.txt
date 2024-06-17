@@ -29,7 +29,7 @@ colorlog==5.0.1
 commonmark==0.9.1
 connexion==2.7.0
 croniter==0.3.37
-cryptography==3.4.7
+cryptography==42.0.8
 defusedxml==0.7.1
 dill==0.3.2
 dnspython==1.16.0
