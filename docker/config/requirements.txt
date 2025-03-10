@@ -36,7 +36,7 @@ dnspython==1.16.0
 docutils==0.16
 email-validator==1.1.2
 Flask==1.1.2
-Flask-AppBuilder==3.3.0
+Flask-AppBuilder==4.5.3
 Flask-Babel==1.0.0
 Flask-Caching==1.10.1
 Flask-JWT-Extended==3.25.1
@@ -55,7 +55,7 @@ inflection==0.5.1
 iso8601==0.1.14
 isodate==0.6.0
 itsdangerous==1.1.0
-Jinja2==2.11.3
+Jinja2==3.1.6
 jmespath==0.10.0
 jsonschema==3.2.0
 kombu==4.6.11
